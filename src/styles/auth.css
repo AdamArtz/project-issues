@@ -1,0 +1,38 @@
+.auth-page {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  
+  .auth-page h2 {
+    text-align: center;
+  }
+  
+  .auth-page form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .auth-page form div {
+    margin-bottom: 1rem;
+  }
+  
+  .auth-page label {
+    margin-bottom: 0.5rem;
+  }
+  
+  .auth-page input {
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  .auth-page button {
+    padding: 0.75rem;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .auth-page p {
+    text-align: center;
+  }
+  
